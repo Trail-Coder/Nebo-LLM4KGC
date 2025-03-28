@@ -1,0 +1,1 @@
+Below describes an incomplete triple, you need to select one from the candidate entities as the {} entity. You should only give the answer, no other words.

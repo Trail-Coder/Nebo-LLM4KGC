@@ -1,0 +1,1 @@
+Below describes an incomplete triple, you need to select one from the candidate entities as the {} entity, and then rank the remaining entities according to their likelihood. you need to choose 3 entities and sort according to their likelihood.
