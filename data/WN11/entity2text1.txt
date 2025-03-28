@@ -1,0 +1,143 @@
+__east_indian_1	east indian
+__lindesnes_1	lindesnes
+__chlamydosaurus_kingi_1	chlamydosaurus kingi
+__cactus_euphorbia_1	cactus euphorbia
+__beg_1	beg
+__show_14	show
+__enervate_1	enervate
+__rock_island_1	rock island
+__cook_2	cook
+__financial_management_service_1	financial management service
+__armature_1	armature
+__army_unit_1	army unit
+__hungarian_1	hungarian
+__domestic_fowl_1	domestic fowl
+__phasianid_1	phasianid
+__wild_spinach_3	wild spinach
+__ambiguous_3	ambiguous
+__genus_trichophyton_1	genus trichophyton
+__cornhusker_state_1	cornhusker state
+__aglaonema_modestum_1	aglaonema modestum
+__field_13	field
+__cucurbita_moschata_1	cucurbita moschata
+__apodeictic_1	apodeictic
+__bonavist_1	bonavist
+__equisetaceae_1	equisetaceae
+__epipactis_1	epipactis
+__bequest_1	bequest
+__gas_8	gas
+__ceratopogon_1	ceratopogon
+__laxation_2	laxation
+__sturm_und_drang_1	sturm und drang
+__brassica_oleracea_2	brassica oleracea
+__cash_register_1	cash register
+__cicindelidae_1	cicindelidae
+__spiv_1	spiv
+__santos_1	santos
+__genus_kiggelaria_1	genus kiggelaria
+__dementedness_1	dementedness
+__naval_radar_1	naval radar
+__clubroot_fungus_1	clubroot fungus
+__winter_squash_1	winter squash
+__head_36	head
+__couch_2	couch
+__gage_3	gage
+__nose_10	nose
+__superfamily_1	superfamily
+__energy_1	energy
+__antidorcas_euchore_1	antidorcas euchore
+__pair_of_tongs_1	pair of tongs
+__stevia_1	stevia
+__wineglass_1	wineglass
+__hollow_6	hollow
+__kuan_yin_1	kuan yin
+__casualty_1	casualty
+__blowup_2	blowup
+__military_position_1	military position
+__barrier_1	barrier
+__milium_1	milium
+__pelycosaur_1	pelycosaur
+__spotted_owl_1	spotted owl
+__genus_megalosaurus_1	genus megalosaurus
+__sell_short_1	sell short
+__tradespeople_1	tradespeople
+__hazel_3	hazel
+__leeward_islands_1	leeward islands
+__acapulco_gold_1	acapulco gold
+__apidae_1	apidae
+__dryopteris_noveboracensis_1	dryopteris noveboracensis
+__marketing_1	marketing
+__birthplace_1	birthplace
+__ascendance_1	ascendance
+__dasyatis_1	dasyatis
+__cork_3	cork
+__extent_2	extent
+__barrel_2	barrel
+__corokia_1	corokia
+__bushel_1	bushel
+__curcuma_domestica_1	curcuma domestica
+__perpendicular_2	perpendicular
+__worm_gear_1	worm gear
+__cosa_nostra_1	cosa nostra
+__cherry_2	cherry
+__chief_executive_1	chief executive
+__anagasta_kuehniella_1	anagasta kuehniella
+__chemical_analysis_1	chemical analysis
+__affability_1	affability
+__mashriq_1	mashriq
+__acroclinium_roseum_1	acroclinium roseum
+__finance_company_1	finance company
+__dinner_2	dinner
+__drymarchon_corais_1	drymarchon corais
+__porcupine_provision_1	porcupine provision
+__genus_trichosurus_1	genus trichosurus
+__banquet_2	banquet
+__dutch_monetary_unit_1	dutch monetary unit
+__psittacosaur_1	psittacosaur
+__tocantins_1	tocantins
+__turn_12	turn
+__displace_3	displace
+__short_5	short
+__dart_2	dart
+__difference_5	difference
+__mouthpiece_5	mouthpiece
+__mallophaga_1	mallophaga
+__facility_1	facility
+__genus_epiphyllum_1	genus epiphyllum
+__check_bit_1	check bit
+__genus_xenopus_1	genus xenopus
+__good_nature_1	good nature
+__saw_logs_1	saw logs
+__franchise_1	franchise
+__displacement_4	displacement
+__metacarpus_1	metacarpus
+__watering_can_1	watering can
+__brownshirt_1	brownshirt
+__andira_inermis_1	andira inermis
+__family_geophilidae_1	family geophilidae
+__flagging_1	flagging
+__physicist_1	physicist
+__arteria_ovarica_1	arteria ovarica
+__chatter_mark_1	chatter mark
+__chancre_1	chancre
+__flap_9	flap
+__ablactation_1	ablactation
+__ultramontanism_1	ultramontanism
+__united_arab_emirates_1	united arab emirates
+__saponify_2	saponify
+__force_2	force
+__pink_4	pink
+__infraction_1	infraction
+__tritheism_1	tritheism
+__perognathus_flavus_1	perognathus flavus
+__genus_sauromalus_1	genus sauromalus
+__west_end_1	west end
+__common_bean_2	common bean
+__genus_threskiornis_1	genus threskiornis
+__genus_spergula_1	genus spergula
+__pipe_1	pipe
+__tag_2	tag
+__air_2	air
+__fault_7	fault
+__genus_scolytus_1	genus scolytus
+__caliber_1	caliber

@@ -1,0 +1,11 @@
+_similar_to	is similar to
+_domain_region	is domain region
+_part_of	is part of
+_type_of	is a type of
+_synset_domain_topic	is in synset domain topic of
+_has_instance	has instance
+_member_holonym	is member holonym of
+_subordinate_instance_of	is subordinate instance of
+_domain_topic	is domain topic
+_has_part	has part
+_member_meronym	is member meronym of
