@@ -66,10 +66,6 @@ with open(test_file, "r") as f:
     # print("File opened")
     # test_count = 0
     for line in lines:
-    # for line in tqdm(lines):
-        # test_count += 1
-        # if test_count > 1:
-        #     break
         tmp = line.strip().split("\t")
         count += 1
         prompt = tmp[0]
@@ -100,8 +96,6 @@ with open(test_file, "r") as f:
             predictions.append(label)
         else:
             predictions.append(ans)
-        
-        # print(str(start_line)+"\n"+prompt+"\n"+ans+"\n"+label+"\n-----------------------------------------\n")
         start_line += 1
 
 with open(res_file, "w", encoding="utf-8") as f:
@@ -118,11 +112,6 @@ except Exception as e:
     pass
 merged_categories = categories
 
-
-# print(f"Length of merged_ground_truth: {len(merged_ground_truth)}")
-# print(f"Length of merged_predictions: {len(merged_predictions)}")
-
-
 macro_precision = precision_score(merged_ground_truth, merged_predictions, labels=merged_categories, average="macro")
 macro_recall = recall_score(merged_ground_truth, merged_predictions, labels=merged_categories, average="macro")
 
@@ -131,9 +120,6 @@ weighted_recall = recall_score(merged_ground_truth, merged_predictions, labels=m
 
 c = calculate_multiclass_confusion_counts(merged_predictions, merged_ground_truth, categories)
 acc = accuracy_score(merged_ground_truth, merged_predictions)
-
-
-
 
 with open(ans_file, "a+", encoding="utf-8") as f:
     f.write("# ===================================================\n")
@@ -144,12 +130,3 @@ with open(ans_file, "a+", encoding="utf-8") as f:
     f.write(f"# weighted Precision: {weighted_precision}\n")
     f.write(f"# weighted Recall: {weighted_recall}\n")
     f.write(f"# ACC: {acc}\n")
-
-
-
-# nohup python test_gpt_rel.py > result/logs/gpt_rel.txt 2>&1 &
-
-
-
-
-
