@@ -122,7 +122,6 @@ c = calculate_multiclass_confusion_counts(merged_predictions, merged_ground_trut
 acc = accuracy_score(merged_ground_truth, merged_predictions)
 
 with open(ans_file, "a+", encoding="utf-8") as f:
-    f.write("# ===================================================\n")
     f.write(f"# Total:{len(lines)}, Try: {count}, Successful: {correct_count}\n")
     f.write(f"# test quick acc: {correct_count / count}\n\n")
     f.write(f"# Merged Predictions: {len(merged_predictions)}\n")
