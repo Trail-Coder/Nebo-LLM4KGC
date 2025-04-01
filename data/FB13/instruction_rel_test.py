@@ -29,7 +29,7 @@ with open("test.tsv", "r", encoding = "utf-8") as f:
         ent_2 = ent2txt[tmp[2]]
         label = tmp[3]
 
-        if label == -1:
+        if int(label) == -1:
             continue
 
         try:
