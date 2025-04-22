@@ -16,6 +16,8 @@ Experiments on several knowledge graph benchmarks reveal that NeBo-LLM achieves 
 <img src="fig/overall_fig3.png" width="90%">
 </div>
 
+
+<div style="display:none">
 ## Getting Start
 
 ### Installing requirement packages
@@ -23,5 +25,6 @@ Experiments on several knowledge graph benchmarks reveal that NeBo-LLM achieves 
 ```shell
 pip install -r requirements.txt
 ```
+</div>
 
 *more details coming soon*
