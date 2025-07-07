@@ -1,4 +1,4 @@
-# NeBO-LLM: Neighborhood-Boosted Large Language Model for Knowledge Graph Completion
+# NeBo-LLM: Neighborhood-Boosted Large Language Model for Knowledge Graph Completion
 
 This repo introduces the implementation of NeBo-LLM in our paper.
 
