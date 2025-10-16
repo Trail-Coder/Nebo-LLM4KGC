@@ -13,7 +13,7 @@ Notably, our model is fine-tuned based on a significantly smaller data scale tha
 Experiments on several knowledge graph benchmarks reveal that NeBo-LLM achieves new SOTA in KGC tasks and even surpasses LLMs fine-tuned with up to 10 times the data scale of our experiments. 
 
 <div align="center">
-<img src="fig/overall_fig3.png" width="90%">
+<img src="fig/overall_fig4.png" width="90%">
 </div>
 
 
