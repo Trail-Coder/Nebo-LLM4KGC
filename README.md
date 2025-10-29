@@ -26,5 +26,27 @@ Experiments on several knowledge graph benchmarks reveal that NeBo-LLM achieves 
 pip install -r requirements.txt
 ```
 
+### Subgraph Construction
+```shell
+cd data/dataset
+python get_neighbor_full.py
+```
+
+### Fine-tuning
+Fine-tuning is implemented via the Llama-factory framework. See the documentation for details on setup and use. The corpora used for training and testing are constructed by:
+```shell
+python instructions_triple_train.py
+python instructions_triple_test.py
+```
+
+
+### Test
+```shell
+python llama_triple_neighbor.py
+python llama_triple_neighbor.py
+python entity_rank.py
+```
+
+
 
 *more details coming soon*
