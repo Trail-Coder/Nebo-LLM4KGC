@@ -5,7 +5,7 @@ from collections import defaultdict
 from typing import Dict, List, Tuple, Iterable, Set
 
 tsv_file = 'train_en_short.tsv'
-csv_file = 'entities_neighbors_full_en_temp.csv'
+csv_file = 'entities_neighbors_full_en.csv'
 entity_text_file = 'entity2text_capital.txt'
 topk_second = 20
 betweenness_sample_k = None
